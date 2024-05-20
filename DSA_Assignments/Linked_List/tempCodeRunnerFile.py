@@ -1,0 +1,1 @@
+l1.delete_at_index(0)
